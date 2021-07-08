@@ -2,7 +2,7 @@ Multiple Choice
 
 1. Which of these is not a interface in the Collections Framework? 
    a.Collection 
-   b.Group 
+   b.Group - Right answer in my opinion 
    c.Set 
    d.List
 
@@ -10,16 +10,16 @@ Multiple Choice
 2. Which of these collection class has the ability to grow dynamically? 
    a.Array 
    b.Arrays 
-   c.ArrayList 
+   c.ArrayList - Right answer in my opinion. 
    d.(None of these)
 
 3. A HashMap allows the existence of:
    a.null values b.one null key 
    c.(None of these)
-   d.(All of these)
+   d.(All of these) - Right answer in my opinion. 
 
 4. Which interface restricts duplicate elements? 
-   a.Set 
+   a.Set - Right answer in my opinion. 
    b.List 
    c.Map 
    d.(All of these)
